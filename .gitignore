@@ -4,8 +4,12 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+<<<<<<< Updated upstream
 node_modules/
 src/main/frontend/node_modules/
+=======
+!**/src/main/frontend/node_modules/
+>>>>>>> Stashed changes
 
 ### STS ###
 .apt_generated
@@ -37,3 +41,4 @@ out/
 
 ### VS Code ###
 .vscode/
+node_modules
